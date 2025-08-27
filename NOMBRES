@@ -1,2 +1,61 @@
 Perea Rojas Giovanni
 Zepahua Jímenez Ximena Alejandra
+Texto 1
+CAMINANDO JUNTO A LENGUAJE C 
+TEXTO
+Lenguaje de programación C
+El lenguaje C es uno de los lenguajes de programación más populares en el
+mundo, se ejecuta en la mayoría de los sistemas operativos y puede ser usado
+en casi todas las plataformas informáticas.
+Fue creado en 1972 por el estadounidense Dennis M. Ritchie, en los laboratorios Bell. En un principio se creó para desarrollar softwares de sistemas
+(conjuntamente con el unix) y, más tarde, se amplió su potencial para desarrollar softwares de aplicaciones.
+Puede ser que este lenguaje sea más difícil de aprender que otros, pero su
+ventaja es la versatibilidad que ofrece. 
+Lenguaje de programación
+Lenguaje artificial que puede ser usado para controlar el comportamiento
+de una máquina, especialmente una computadora. Éste se compone de un
+conjunto de reglas sintácticas y semánticas que permite expresar instrucciones que luego serán interpretadas.
+Debe distinguirse del lenguaje informático que es una definición más
+amplia, porque muchas veces es utilizado como sinónimo del lenguaje de
+programación. Un lenguaje informático no siempre es un lenguaje de programación. Por ejemplo, el html (lenguaje de marca)
+es un lenguaje informático que describe a la computadora el formato o la estructura de un documento (y no es un lenguaje de programación).
+Lenguaje máquina: es aquel cuyas instrucciones son directamente entendibles por la computadora. Las instrucciones en lenguaje máquina
+se expresan en términos de la unidad de memoria más pequeña, es decir el bit (dígito binario 0 y 1). El lenguaje será entendible por el procesador, pero poco claro para el programador. Entonces, para simplificar
+el lenguaje máquina, aparecieron los lenguajes de bajo nivel.
+• Lenguaje de bajo nivel (ensamblador): este lenguaje es generalmente dependiente de la máquina, es decir, depende de un conjunto de
+instrucciones específicas de la computadora. En este lenguaje las
+instrucciones se escriben en códigos alfabéticos, conocidos como
+nemotécnicos (abreviaturas de palabras). 
+Lenguaje de alto nivel (evolucionado): es un lenguaje cuyas instrucciones se escriben con palabras similares a los lenguajes humanos
+(por lo general en inglés), para facilitar su comprensión.
+Fases para la creación de un programa
+Definición del problema: esta fase está dada por el enunciado del problema,
+el cual requiere una definición clara y precisa. Es importante que se conozca
+lo que se desea que realice la computadora; mientras esto no se conozca del
+todo no tiene mucho caso continuar con la siguiente etapa.
+Análisis del problema: esta fase requiere de una clara definición, donde se
+contemple exactamente lo que debe hacer el programa y el resultado o la solución deseada, entonces es necesario definir:
+Diseño del algoritmo: en esta etapa se determina cómo se hace el programa.
+Este procedimiento es independiente del lenguaje de programación. Las herramientas son el diagrama de flujo y el pseudocódigo.
+El diagrama de flujo es una representación gráfica de un algoritmo.
+RESUMEN: 
+El lenguaje C es uno de los más usados en programación. Se puede usar en casi cualquier computadora y sistema operativo. Lo creó Dennis Ritchie en 1972 en los laboratorios Bell. Al principio lo usaban para hacer software de sistemas, pero después se empezó a usar también para hacer programas de aplicación. Aunque puede ser un poco complicado de aprender. 
+
+Un lenguaje de programación es básicamente una forma de decirle a la computadora qué hacer, usando ciertas reglas. No hay que confundirlo con el lenguaje informático, que es un término más general. Por ejemplo, HTML es un lenguaje informático, pero no es un lenguaje de programación porque no da instrucciones, solo define estructuras. 
+
+Hay varios tipos de lenguajes: 
+Lenguaje máquina: usa solo 0 y 1, lo entiende la compu pero es difícil para las personas. 
+Lenguaje de bajo nivel: depende de la máquina, usa abreviaciones, y es un poco más fácil que el lenguaje máquina. 
+Lenguaje de alto nivel: es más parecido al lenguaje humano (generalmente en inglés) y más fácil de entender. 
+Para hacer un programa, hay que seguir ciertos pasos: 
+Definir el problema: tener bien claro qué se quiere hacer. 
+Analizar el problema: pensar bien lo que el programa debe hacer y qué resultado se espera. 
+Diseñar el algoritmo: decidir cómo va a funcionar el programa, usando diagramas de flujo o pseudocódigo.
+Mi conclusión Zepahua Jimenez Ximena Alejandra:
+ Me parece sorprendente el como inicio el lenguaje C y como se le dio muchas más aplicaciones que solo crear sofware de sistemas, 
+si bien recalcan que es un lenguaje con cierto tipo de complejida, también es bastante versatil, ya que combina elementos de lenguaje 
+alto nivel y ensamblador. También reconocer que es uno de los lenguajes más utilizados entonces siento que llama mi atención y seguramente 
+la de muchas más personas, también en el texto nos da muchos conceptos que vimos en parte en clases como: lenguaje máquina, de bajo nivel y 
+de alto nivel, de la misma manera nos explica que depende el nivel del programador de entenderlo es como se clasifican, ya por último nos plantea
+como hacer un programa desde el algoritmo pues es muy importante seguir una secuencia de pasos para poder resolver un problema, de eso se trata un 
+algoritmo.
